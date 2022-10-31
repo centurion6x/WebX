@@ -784,3 +784,27 @@ body.dark #bootstrap-override{
 #resource{
   margin-top: 80px;
 }
+
+
+#link-list li p{
+  text-align: left;
+  font-family: inherit;
+}
+#contrib-heading {
+  text-transform: none;
+  text-align: left;
+  padding-top: 0%;
+  padding-bottom: 0%;
+  font-size: large;
+  font-family: inherit;
+}
+#content-pane-jumbo {
+  padding-top: 2rem;
+  padding-bottom: 1rem;
+  width: 60%;
+  margin: auto;
+}
+#contrib-section {
+  bottom: auto;
+  top: 0%;
+}
